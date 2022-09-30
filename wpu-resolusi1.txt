@@ -2,5 +2,5 @@ WPU RESOLUSI 1
 - Ingin menjadi orang sukses
 - Menyukai tentang pemrograman
 - Mencoba mempelajari bahasa pemrograman
-- Membuat website sederhana
 - Memodifikasi websitenya
+- Mencoba dengan Framework
